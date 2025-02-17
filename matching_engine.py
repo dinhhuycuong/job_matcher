@@ -3,7 +3,7 @@ import os
 import sys
 from typing import List, Dict, Callable, Optional
 import logging
-from dotenv import load_dotenv
+from python-dotenv import load_dotenv
 import time
 import random
 
